@@ -1,0 +1,3 @@
+﻿.jq-history/*.tmp
+*.log
+.DS_Store
