@@ -5,3 +5,5 @@ Weekday-friendly **jq recipes** for trimming noisy agent JSON logs.
 ```bash
 bash scripts/smoke.sh
 ```
+
+Smoke reruns twice catch regressions early.
