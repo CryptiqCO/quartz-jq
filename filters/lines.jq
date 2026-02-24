@@ -1,2 +1,3 @@
 ﻿def trim: gsub("^\\s+";"") | gsub("\\s+$";"");
-.msg | trim
+def squeeze: gsub(" {2,}";" ");
+.msg | trim | squeeze
