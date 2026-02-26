@@ -7,3 +7,6 @@ bash scripts/smoke.sh
 ```
 
 Smoke reruns twice catch regressions early.
+
+## Safety
+Not a JSON Schema replacement.
