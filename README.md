@@ -10,3 +10,5 @@ Smoke reruns twice catch regressions early.
 
 ## Safety
 Not a JSON Schema replacement.
+
+jq manual https://jqlang.github.io/jq/manual/
