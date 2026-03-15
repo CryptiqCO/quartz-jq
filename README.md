@@ -1,5 +1,5 @@
 ﻿# quartz-jq
-Weekday-friendly **jq recipes** for trimming noisy agent JSON logs.
+Practical **jq recipes** for trimming noisy agent JSON logs.
 
 ## Usage
 ```bash
@@ -12,3 +12,4 @@ Smoke reruns twice catch regressions early.
 Not a JSON Schema replacement.
 
 jq manual https://jqlang.github.io/jq/manual/
+
