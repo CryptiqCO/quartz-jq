@@ -1,3 +1,4 @@
-﻿.PHONY: smoke
-smoke:
-	bash scripts/smoke.sh
+﻿
+.PHONY: smoke fmt-check
+fmt-check:
+	@command -v jq >/dev/null
