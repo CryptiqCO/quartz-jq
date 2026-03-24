@@ -1,3 +1,4 @@
 ﻿.jq-history/*.tmp
-*.log
+*.log`r`n*.cache
 .DS_Store
+
