@@ -13,3 +13,5 @@ Not a JSON Schema replacement.
 
 jq manual https://jqlang.github.io/jq/manual/
 
+
+_Feb wrap-up - stable jq smoke path._
